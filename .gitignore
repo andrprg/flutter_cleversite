@@ -45,7 +45,6 @@ app.*.map.json
 *.yaml
 android/
 ios/
-lib/
 linux/
 macos/
 web/
