@@ -41,12 +41,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-.metadata
-*.yaml
-android/
-ios/
-lib/
-linux/
-macos/
-web/
-windows/
+
+
