@@ -30,6 +30,8 @@ dependencies:
   riverpod_annotation: ^2.3.4
   dio: ^5.4.1
   envied: ^0.5.3
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
 
 dev_dependencies:
   flutter_test:
@@ -41,6 +43,8 @@ dev_dependencies:
   riverpod_lint: ^2.3.9
   custom_lint: ^0.6.2
   envied_generator: ^0.5.3
+  freezed: ^2.4.7
+  json_serializable: ^6.7.1
 
 flutter:
   uses-material-design: true
